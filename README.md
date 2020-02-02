@@ -20,7 +20,3 @@ Wersje technologii wykorzystywanych w projekcie:
 $ make
 $ ./compiler <plik_wejściowy> <plik_wyjściowy>
 ```
-
-## Autor
-
-Dawid Wyrembak
